@@ -1,0 +1,10 @@
+C:\c#\AST_IT_Support\AST_IT_Support\bin\Debug\AST_IT_Support.exe.config
+C:\c#\AST_IT_Support\AST_IT_Support\bin\Debug\AST_IT_Support.exe
+C:\c#\AST_IT_Support\AST_IT_Support\bin\Debug\AST_IT_Support.pdb
+C:\c#\AST_IT_Support\AST_IT_Support\obj\Debug\AST_IT_Support.csprojResolveAssemblyReference.cache
+C:\c#\AST_IT_Support\AST_IT_Support\obj\Debug\AST_IT_Support.Form1.resources
+C:\c#\AST_IT_Support\AST_IT_Support\obj\Debug\AST_IT_Support.Properties.Resources.resources
+C:\c#\AST_IT_Support\AST_IT_Support\obj\Debug\AST_IT_Support.csproj.GenerateResource.Cache
+C:\c#\AST_IT_Support\AST_IT_Support\obj\Debug\AST_IT_Support.exe
+C:\c#\AST_IT_Support\AST_IT_Support\obj\Debug\AST_IT_Support.pdb
+C:\c#\AST_IT_Support\AST_IT_Support\obj\Debug\AST_IT_Support.Form2.resources

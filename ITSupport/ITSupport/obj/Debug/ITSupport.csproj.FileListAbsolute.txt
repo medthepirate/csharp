@@ -1,0 +1,15 @@
+C:\c#\ITSupport\ITSupport\bin\Debug\ITSupport.exe.config
+C:\c#\ITSupport\ITSupport\bin\Debug\ITSupport.exe
+C:\c#\ITSupport\ITSupport\bin\Debug\ITSupport.pdb
+C:\c#\ITSupport\ITSupport\obj\Debug\ITSupport.csprojResolveAssemblyReference.cache
+C:\c#\ITSupport\ITSupport\obj\Debug\MainWindow.baml
+C:\c#\ITSupport\ITSupport\obj\Debug\MainWindow.g.cs
+C:\c#\ITSupport\ITSupport\obj\Debug\App.g.cs
+C:\c#\ITSupport\ITSupport\obj\Debug\ITSupport_MarkupCompile.cache
+C:\c#\ITSupport\ITSupport\obj\Debug\ITSupport.g.resources
+C:\c#\ITSupport\ITSupport\obj\Debug\ITSupport.Properties.Resources.resources
+C:\c#\ITSupport\ITSupport\obj\Debug\ITSupport.csproj.GenerateResource.Cache
+C:\c#\ITSupport\ITSupport\obj\Debug\ITSupport.exe
+C:\c#\ITSupport\ITSupport\obj\Debug\ITSupport.pdb
+C:\c#\ITSupport\ITSupport\obj\Debug\JobWindow.baml
+C:\c#\ITSupport\ITSupport\obj\Debug\JobWindow.g.cs

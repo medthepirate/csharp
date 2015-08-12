@@ -1,0 +1,6 @@
+C:\c#\ConsoleBriefingPrototype\ConsoleBriefingPrototype\bin\Debug\ConsoleBriefingPrototype.exe.config
+C:\c#\ConsoleBriefingPrototype\ConsoleBriefingPrototype\bin\Debug\ConsoleBriefingPrototype.exe
+C:\c#\ConsoleBriefingPrototype\ConsoleBriefingPrototype\bin\Debug\ConsoleBriefingPrototype.pdb
+C:\c#\ConsoleBriefingPrototype\ConsoleBriefingPrototype\obj\Debug\ConsoleBriefingPrototype.csprojResolveAssemblyReference.cache
+C:\c#\ConsoleBriefingPrototype\ConsoleBriefingPrototype\obj\Debug\ConsoleBriefingPrototype.exe
+C:\c#\ConsoleBriefingPrototype\ConsoleBriefingPrototype\obj\Debug\ConsoleBriefingPrototype.pdb

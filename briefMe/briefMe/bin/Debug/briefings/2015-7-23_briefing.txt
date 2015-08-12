@@ -1,0 +1,23 @@
+=initial=good morning! here are the headlines
+=numheadlines=3
+=dailygoal=write a program
+
+
+
+=weeklygoal=move the family
+
+=monthlygoal=get a job
+
+
+=feeling= 3 
+=good=the visit with jo
+=bad=lost focus at work
+=action=stay focussed at work
+=grateful=vicky, jake and my whole family
+=excited=seeing Vicky and Jake this weekend
+=forward=shift tonight and some exercise
+=exercise=pressups and Aikido
+=wow=reduce your arrogance. be careful how you put things so they come across with the humility that you possess
+=remember=eat and go to ellies
+=act=strong
+=conclusion=okay thats it, now finish your coffee, take your vitamins, drink some water, give me 50 and have a shower maggot!

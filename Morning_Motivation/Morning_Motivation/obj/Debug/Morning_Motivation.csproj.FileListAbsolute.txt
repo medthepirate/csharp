@@ -1,0 +1,13 @@
+C:\c#\Morning_Motivation\Morning_Motivation\bin\Debug\Morning_Motivation.exe.config
+C:\c#\Morning_Motivation\Morning_Motivation\bin\Debug\Morning_Motivation.exe
+C:\c#\Morning_Motivation\Morning_Motivation\bin\Debug\Morning_Motivation.pdb
+C:\c#\Morning_Motivation\Morning_Motivation\obj\Debug\Morning_Motivation.csprojResolveAssemblyReference.cache
+C:\c#\Morning_Motivation\Morning_Motivation\obj\Debug\MainWindow.baml
+C:\c#\Morning_Motivation\Morning_Motivation\obj\Debug\MainWindow.g.cs
+C:\c#\Morning_Motivation\Morning_Motivation\obj\Debug\App.g.cs
+C:\c#\Morning_Motivation\Morning_Motivation\obj\Debug\Morning_Motivation_MarkupCompile.cache
+C:\c#\Morning_Motivation\Morning_Motivation\obj\Debug\Morning_Motivation.g.resources
+C:\c#\Morning_Motivation\Morning_Motivation\obj\Debug\Morning_Motivation.Properties.Resources.resources
+C:\c#\Morning_Motivation\Morning_Motivation\obj\Debug\Morning_Motivation.csproj.GenerateResource.Cache
+C:\c#\Morning_Motivation\Morning_Motivation\obj\Debug\Morning_Motivation.exe
+C:\c#\Morning_Motivation\Morning_Motivation\obj\Debug\Morning_Motivation.pdb

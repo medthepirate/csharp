@@ -1,0 +1,28 @@
+=initial=good morning! here are the headlines
+=numheadlines=3
+=dailygoal=to visit jo
+
+
+
+
+
+=weeklygoal=to perform the move
+
+
+=monthlygoal=to get a job
+
+
+
+
+=feeling=
+=good=
+=bad=
+=action=
+=grateful=
+=excited=
+=forward=
+=exercise=
+=wow=
+=remember=
+=act=
+=conclusion=okay thats it, now finish your coffee, take your vitamins, drink some water, give me 50 and have a shower maggot!

@@ -1,0 +1,49 @@
+﻿<Window x:Class="briefMe.hitme"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="hitme" Height="550" Width="400">
+    <Grid>
+        <TextBox x:Name="dailygoalbox" HorizontalAlignment="Left" Height="23" Margin="255,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="dailygoalbox_TextChanged"/>
+        <TextBox x:Name="weeklygoalbox" HorizontalAlignment="Left" Height="23" Margin="255,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="weeklygoalbox_TextChanged"/>
+        <TextBox x:Name="monthlygoalbox" HorizontalAlignment="Left" Height="23" Margin="255,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="monthlygoalbox_TextChanged"/>
+        <TextBox x:Name="goodbox" HorizontalAlignment="Left" Height="23" Margin="255,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="goodbox_TextChanged"/>
+        <ComboBox x:Name="feelingbox" HorizontalAlignment="Left" Margin="255,95,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="feelingbox_SelectionChanged">
+            <ComboBoxItem Content="0" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="1" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="2" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="3" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="4" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="5" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="6" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="7" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="8" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="9" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="10" HorizontalAlignment="Left" Width="118"/>
+        </ComboBox>
+        <TextBox x:Name="badbox" HorizontalAlignment="Left" Height="23" Margin="255,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="badbox_TextChanged"/>
+        <TextBox x:Name="actionbox" HorizontalAlignment="Left" Height="23" Margin="255,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="actionbox_TextChanged"/>
+        <TextBox x:Name="gratefulbox" HorizontalAlignment="Left" Height="23" Margin="255,206,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="gratefulbox_TextChanged"/>
+        <TextBox x:Name="excitedbox" HorizontalAlignment="Left" Height="23" Margin="255,234,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="excitedbox_TextChanged"/>
+        <TextBox x:Name="forwardbox" HorizontalAlignment="Left" Height="23" Margin="255,262,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="forwardbox_TextChanged"/>
+        <TextBox x:Name="exercisebox" HorizontalAlignment="Left" Height="23" Margin="255,290,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="exercisebox_TextChanged"/>
+        <TextBox x:Name="wowbox" HorizontalAlignment="Left" Height="23" Margin="255,318,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="wowbox_TextChanged"/>
+        <TextBox x:Name="rememberbox" HorizontalAlignment="Left" Height="23" Margin="255,346,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="rememberbox_TextChanged"/>
+        <TextBox x:Name="actbox" HorizontalAlignment="Left" Height="23" Margin="255,374,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="actbox_TextChanged"/>
+        <Button Content="I'm done!" HorizontalAlignment="Left" Margin="138,430,0,0" VerticalAlignment="Top" Width="120" Height="62" Click="Button_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="25,17,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Daily G"/><Run Text="oal:"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="25,46,0,0" TextWrapping="Wrap" Text="Weekly Goal:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="25,74,0,0" TextWrapping="Wrap" Text="Monthly Goal:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="25,101,0,0" TextWrapping="Wrap" Text="How are you feeling?:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="25,129,0,0" TextWrapping="Wrap" Text="What was good yesterday?:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="25,157,0,0" TextWrapping="Wrap" Text="What was bad yesterday?:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="25,185,0,0" TextWrapping="Wrap" Text="How will you fix it?:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="25,213,0,0" TextWrapping="Wrap" Text="What are you grateful for?:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="27,241,0,0" TextWrapping="Wrap" Text="What are you excited about?:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="27,269,0,0" TextWrapping="Wrap" Text="What are you looking forward to?:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="27,300,0,0" TextWrapping="Wrap" Text="How will you exercise?:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="27,328,0,0" TextWrapping="Wrap" Text="How will you wow people today?:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="27,356,0,0" TextWrapping="Wrap" Text="What do you need to remember?:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="27,381,0,0" TextWrapping="Wrap" Text="How do you need to act today?:" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

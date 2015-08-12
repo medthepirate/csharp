@@ -1,0 +1,9 @@
+﻿<Window x:Class="briefMe.oldBriefing"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="oldBriefing" Height="300" Width="300">
+    <Grid>
+        <TextBlock x:Name="test" HorizontalAlignment="Left" Margin="81,86,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="test"/>
+
+    </Grid>
+</Window>

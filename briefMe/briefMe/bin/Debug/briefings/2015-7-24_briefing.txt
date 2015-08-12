@@ -1,0 +1,25 @@
+=initial=good morning! here are the headlines
+=numheadlines=3
+=dailygoal=to visit jo
+
+
+
+
+=weeklygoal=to perform the move
+
+=monthlygoal=to get a job
+
+
+
+=feeling= 5 
+=good=you didn't spend any money
+=bad=you didn't hunt for a job
+=action=hunt for a job
+=grateful=vicky, jake, jo and family. Also location
+=excited=getting my family back
+=forward=seeing Jo
+=exercise=pressups
+=wow=getting your shit together
+=remember=check emails
+=act=strong
+=conclusion=okay thats it, now finish your coffee, take your vitamins, drink some water, give me 50 and have a shower maggot!

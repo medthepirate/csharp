@@ -1,0 +1,17 @@
+=initial=good morning! here are the headlines
+=numheadlines=3
+=dailygoal= =0daily goal is this
+=weeklygoal= =0this is a weekly goal 
+=monthlygoal= =0monthly stuff 
+=feeling= 4 
+=good=good
+=bad=asdsad
+=action= =0asdassd
+=grateful=asdsad
+=excited=asdsad
+=forward=asdasd
+=exercise= =0asdasd
+=wow= =0asdasd
+=remember= =0asdasd
+=act= =0asdasd
+=conclusion=okay thats it, now finish your coffee, take your vitamins, drink some water, give me 50 and have a shower maggot!
